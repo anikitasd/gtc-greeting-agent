@@ -46,7 +46,7 @@ from ultralytics import YOLO
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 # Replace these with your actual credentials:
-ELEVENLABS_API_KEY = "sk_cc457fe8cf4c40b013333e81924a6cccc5c39ab486f4178c"
+ELEVENLABS_API_KEY = <add key>
 VOICE_ID = "ErXwobaYiN019PkySvjV"
 OPENAI_API_KEY = "your_openai_api_key_here"  # Only needed if you set USE_LLM=True
 
